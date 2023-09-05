@@ -17,7 +17,7 @@
         }
 
         public function  apresentar():string{
-            return "Olá $this->nome <br> de $this->idade anos";
+            return "Olá $this->nome \n de $this->idade anos";
         }
     }
 
