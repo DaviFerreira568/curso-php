@@ -91,7 +91,7 @@
                         </li>
                         <li>
                             <a href="exercicio.php?dir=funcoes&file=desafio_recursao">
-                                Desafio Recursão
+                                Desafio Recurse
                             </a>
                         </li>
                         <li>
@@ -266,7 +266,7 @@
                         </li>
                         <li>
                             <a href="exercicio.php?dir=variaveis&file=desafio_equacao">
-                                Desafio Equação
+                                Desafio Equator
                             </a>
                         </li>
                         <li>
@@ -276,7 +276,7 @@
                         </li>
                         <li>
                             <a href="exercicio.php?dir=variaveis&file=interpolacao">
-                                Interpolação
+                                Interpolator
                             </a>
                         </li>
                         <li>
