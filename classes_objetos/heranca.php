@@ -39,7 +39,7 @@
             return "$this->login: " . parent::apresentar();
         }
     }
-    $p1 = new Pessoa("augusto", 21);
+    $p1 = new Pessoa("augusto2", 21);
     echo $p1->apresentar();
     $u1 = new Usuario("123@gmail.com", "joão", 12);
     echo $u1->apresentar();
