@@ -25,13 +25,13 @@
         public string $login;
 
         function __construct($login, $nome, $idade){
-            parent::__construct($nome, $idade); // Chamada ao construtor da classe pai
+            parent::__construct($nome, $idade);
             $this->login = $login;
             echo "Usuário Criado com Sucesso! <br>";
         }
 
         function __destruct(){
-            parent::__destruct(); // Chamada ao destrutor da classe pai
+            parent::__destruct();
             echo "Usuário Deletado com Sucesso";
         }
 
