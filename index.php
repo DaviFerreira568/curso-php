@@ -39,6 +39,16 @@
                                Herança
                             </a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=classes_objetos&file=static">
+                                Membros Estáticos
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=classes_objetos&file=desafio_7erros">
+                                Desafio 7 Erros
+                            </a>
+                        </li>
                     </ul>
                 </div>
                 <div class="modulo vermelho-escuro">
